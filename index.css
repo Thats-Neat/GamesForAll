@@ -7,6 +7,10 @@ h1 {
     background-image: linear-gradient(#2c3e50,#2c3e50);
     padding: 7px;
     }
+
+.Big {
+  font-size: 35px;
+}
     .center {
       display: block;
       margin-left: auto;
