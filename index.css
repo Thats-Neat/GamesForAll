@@ -11,6 +11,23 @@ h1 {
 .Big {
   font-size: 35px;
 }
+
+h3{
+  font-size: 35px;
+  text-align: center;
+}
+
+.link{
+  font-size: 25px;
+  color: black
+}
+
+a:hover{
+  color: grey;
+}
+.small{
+  font-size: 20px;
+}
     .center {
       display: block;
       margin-left: auto;
